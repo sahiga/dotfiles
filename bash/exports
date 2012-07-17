@@ -1,5 +1,5 @@
 if [ $system_name = 'Darwin' ]; then
-  export EDITOR='mate -w'
+  export EDITOR='sublime'
   export PATH="/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/:$PATH"
   export PATH="/Library/PostgreSQL8/bin/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/bin:$PATH"
   export ANDROID_NDK_ROOT="/Volumes/Phatty/Android/android-ndk-r6"

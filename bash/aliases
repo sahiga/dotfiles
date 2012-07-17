@@ -46,6 +46,10 @@ alias l='ls $LS_OPTIONS -lh'
 alias ll='ls $LS_OPTIONS -lh'
 alias la='ls $LS_OPTIONS -lAh'
 
+#Sublime
+alias sublime='open -a "Sublime Text 2"'
+alias mate='open -a "Sublime Text 2"'
+
 # Ruby
 alias irb='irb --readline -r irb/completion'
 alias rii='ri -Tf ansi'
